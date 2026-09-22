@@ -1,12 +1,12 @@
-# 🎮 Steam Games Analysis
+#  Steam Games Analysis
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes a dataset of Steam games to explore trends in popularity, pricing, and player engagement. The objective is to identify key factors that contribute to a game's success.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 
 * Source: Steam Games Dataset
 * Records: ~10,000+ games
@@ -21,7 +21,7 @@ This project analyzes a dataset of Steam games to explore trends in popularity, 
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 * Python (Pandas, Matplotlib, Seaborn)
 * Power BI (Interactive Dashboard)
@@ -29,7 +29,7 @@ This project analyzes a dataset of Steam games to explore trends in popularity, 
 
 ---
 
-## 🔍 Data Processing
+##  Data Processing
 
 * Removed duplicate records
 * Converted owners range into numerical values
@@ -39,7 +39,7 @@ This project analyzes a dataset of Steam games to explore trends in popularity, 
 
 ---
 
-## 📈 Exploratory Data Analysis
+##  Exploratory Data Analysis
 
 ### 1. Top Popular Games
 
@@ -78,17 +78,17 @@ This project analyzes a dataset of Steam games to explore trends in popularity, 
 
 ---
 
-## 📊 Dashboards
+##  Dashboards
 
-### 🐍 Python Dashboard (Matplotlib + Seaborn)
+###  Python Dashboard (Matplotlib + Seaborn)
 
 Includes 5 visualizations:
 
-* 🎯 Top Games by Owners
-* 💰 Price vs Rating
-* 🏢 Top Developers
-* 📊 CCU Distribution
-* 🔥 Correlation Heatmap
+*  Top Games by Owners
+*  Price vs Rating
+*  Top Developers
+*  CCU Distribution
+*  Correlation Heatmap
 
 
 ![Python Dashboard](dashboard/python_dashboard.png)
@@ -99,17 +99,17 @@ Includes 5 visualizations:
 
 Includes:
 
-* 🎯 Top Games by Popularity
-* 💰 Price vs Rating Scatter Plot
-* 🏢 Developer Analysis
-* 📊 Player Activity (CCU)
-* 📌 Key Metrics (Total Games, Average Price, Ratings)
+*  Top Games by Popularity
+*  Price vs Rating Scatter Plot
+*  Developer Analysis
+*  Player Activity (CCU)
+*  Key Metrics (Total Games, Average Price, Ratings)
 
 ![powerbi_dashboard.jpg](dashboard/powerbi_dashboard.jpg)
 [powerbi_dashboard.pbix](dashboard/powerbi_dashboard.pbix)
 ---
 
-## 💡 Key Insights
+##  Key Insights
 
 * Popular games have significantly higher ownership
 * Price has weak correlation with user satisfaction
@@ -118,7 +118,7 @@ Includes:
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```bash
 
@@ -146,7 +146,7 @@ steam-games-analysis/
 ```
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 * Add machine learning model to predict game success
 * Build automated ETL pipeline
@@ -155,11 +155,11 @@ steam-games-analysis/
 
 ---
 
-## 👤 Author
+##  Author
 
 * Student in Data / Data Engineering track
 * Focused on building real-world data projects
 
 ---
 
-⭐ If you find this project useful, feel free to star the repository!
+ If you find this project useful, feel free to star the repository!
